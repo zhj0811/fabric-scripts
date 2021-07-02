@@ -1,0 +1,9 @@
+{
+  "address": "192.168.72.122:9999",
+  "dial_timeout": "10s",
+  "tls_required": false,
+  "client_auth_required": false,
+  "key_path": "",
+  "cert_path": "",
+  "root_cert_path": ""
+}
